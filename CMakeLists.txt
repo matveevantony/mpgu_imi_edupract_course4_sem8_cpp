@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(problem16_009 problem16/problem16_009.cpp)
 add_executable(problem16_016 problem16/problem16_016.cpp)
+add_executable(problem16_051 problem16/problem16_051.cpp)
