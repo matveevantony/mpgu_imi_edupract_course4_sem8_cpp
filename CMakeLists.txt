@@ -13,3 +13,6 @@ add_executable(problem17_057 problem17/problem17_057.cpp)
 
 add_executable(problem25_011 problem25/problem25_011.cpp)
 add_executable(problem25_026 problem25/problem25_026.cpp)
+
+add_executable(problem27_012 problem27/problem27_012.cpp)
+add_executable(problem27_058 problem27/problem27_058.cpp)
